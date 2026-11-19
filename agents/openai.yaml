@@ -1,0 +1,4 @@
+interface:
+  display_name: "关山阅·关键词与页面分配"
+  short_description: "把 Google SEO 关键词按意图和主题分配到产品页、分类页及文章，识别页面重叠和缺口。适用于网站内容规划。"
+  default_prompt: "使用 $seoguan-keyword-mapper，根据我提供的材料完成关键词与页面分配，保留证据与未确认项。"
